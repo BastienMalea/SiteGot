@@ -1,0 +1,108 @@
+@font-face {
+	font-family: GOT;
+	src:url(game.ttf);
+	font-style: normal;
+	font-weight: bold;
+}
+figcaption{
+	text-align: center;
+	color: white;
+	font-family: GOT;
+}
+body.roi{
+	background:radial-gradient(white, black);
+}
+img.roi{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+body.dragon{
+	background:radial-gradient(white, black);
+}
+img.dragon{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+body.bran{
+	background:radial-gradient(white, black);
+}
+img.bran{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body.logo{
+	background:radial-gradient(white, black);
+}
+img.logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	height: 700px;
+	
+}
+body.jonSnow{
+	background:radial-gradient(white, black);
+}
+img.jonSnow{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1100px;
+	height: 700px;
+	
+}
+body.dana{
+	background:radial-gradient(white, black);
+}
+img.dana{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+body.famille{
+	background:radial-gradient(white, black);
+}
+img.famille{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+body.mur{
+	background:radial-gradient(white, black);
+}
+img.mur{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body.trone{
+	background:radial-gradient(white, black);
+}
+img.trone{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+div{
+	text-align: center;
+	font-family: GOT;
+	font-weight:50px;
+	margin-top: 50px;
+}
+a{
+	color: white;
+}
+a:hover{
+	color:black;
+	transition: 0.3s all;
+}

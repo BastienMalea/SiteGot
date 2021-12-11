@@ -1,0 +1,82 @@
+
+a{
+	font-family: GOT;
+}
+div.boutons a.bt1 button {
+	display: block;
+	background-color: #565A5B;
+	cursor: pointer;
+	font-size: 16px;
+	border:none;
+
+}
+div.boutons a.bt2 button{
+	display: block;
+	background-color: #565A5B;
+	cursor: pointer;
+	font-size: 16px;
+	border: none;
+	
+}
+a.bt1 button{
+	position: fixed;
+	top:75px;
+	right: 20px;
+	border-radius: 10px;
+	
+}
+a.bt2 button{
+	position: fixed;
+	top:100px;
+	right: 20px;
+	border-radius: 10px;
+}
+
+h1{
+text-align: center;
+color:white;
+font-family:GOT;
+font-size: 50px;
+font-weight: 100;
+}
+
+p {
+	font-family: GOT;
+	font-weight: 600;
+}
+
+header {
+	background-color: #2C2B2B;
+	border: 1px solid black;
+	height: 175px;
+}
+body{
+	background-color: #3A3636;
+	background-image: url(https://wallpaperaccess.com/full/873294.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+nav.haut ul.Menu li{
+	padding: 5px;
+	display: inline-block;
+
+}
+nav.haut ul.Menu li:hover a.nav{
+	transition: 0.3s all;
+	background-color: white;
+	color: black;
+	text-decoration: none;
+}
+nav.haut ul.Menu li a.nav {
+	text-decoration: none;
+	font-size: 20px;
+	color:red;
+	vertical-align: top;
+	margin:10px;
+	padding: 5px;
+}
+
+
